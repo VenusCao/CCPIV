@@ -2,7 +2,7 @@
 CCPIV视频（Android），VIP视频免费看
 
 ## 应用截图
-![](http://ac-qmtbhnki.clouddn.com/9dfcd17de09b12229317.png)  
+![](http://ac-qmtbhnki.clouddn.com/f4a0e8552dd515121289.png)  
 ![](http://ac-qmtbhnki.clouddn.com/9c3289a7b2fee246b4d4.png)  
 ![](http://ac-qmtbhnki.clouddn.com/0e63b6cd6628e319e32e.png)  
 ## 下载
