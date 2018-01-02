@@ -9,5 +9,5 @@ CCPIV视频（Android），VIP视频免费看
 ![](http://ac-qmtbhnki.clouddn.com/0e63b6cd6628e319e32e.png)  
 ## 下载
     浏览器,QQ,微信等扫描二维码下载  
-![](http://ac-QMTBhNKI.clouddn.com/c0a25309a0c2d84f8265.png)  
+![](http://ac-qmtbhnki.clouddn.com/f09e5097b8500f144603.png)  
 [百度网盘下载](https://pan.baidu.com/s/1i5u3PR3)
