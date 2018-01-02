@@ -10,4 +10,4 @@ CCPIV视频（Android），VIP视频免费看
 ## 下载
     浏览器,QQ,微信等扫描二维码下载  
 ![](http://ac-qmtbhnki.clouddn.com/f09e5097b8500f144603.png)  
-[百度网盘下载](https://pan.baidu.com/s/1i5u3PR3)
+[百度网盘下载](https://pan.baidu.com/s/1c2wGHBa)
