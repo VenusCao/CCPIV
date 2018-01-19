@@ -6,7 +6,7 @@ CCPIV视频（Android），VIP视频免费看
   
 ![](http://ac-qmtbhnki.clouddn.com/b5ba5b5ceb6415274c7d.png)
 
-## 更新说明
+## 更新说明  
 
  CCPIV v2.2.0版本更新：
 本次为强制更新，说不清的超多优化升级，更新奖励10积分  
