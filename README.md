@@ -1,12 +1,29 @@
 # CCPIV
-CCPIV视频（Android），VIP视频免费看
-
+CCPIV视频全面升级为‘CCPIV视频 PLUS版’，android ios通用流应用
 ## 应用截图
 
   
-![](http://ac-qmtbhnki.clouddn.com/b5ba5b5ceb6415274c7d.png)
+![](http://lc-qmtbhnki.cn-n1.lcfile.com/e0fcd71a68e610225d9f.jpg)
+
+![](http://lc-qmtbhnki.cn-n1.lcfile.com/6844fca6cbda4610e877.jpg)
+
+![](http://lc-qmtbhnki.cn-n1.lcfile.com/0658ff4156be64113896.jpg)
+
+![](http://lc-qmtbhnki.cn-n1.lcfile.com/518630a6f76c68fb83a9.jpg)
 
 ## 更新说明  
+CCPIV PLUS v3.0.5发布：
+全面升级为 CCPIV视频 PLUS版
+
+1.全网视频支持：腾讯视频，爱奇艺，芒果TV，优酷
+2.全网视频搜索 
+3.最近上映电影和即将上映电影查看，随时关注院线大片
+4.全面支持ios和android,需先下载一个‘流应用’app后扫码即可无需安装使用
+5.更多自行体会... 
+
+
+ --------------------------------------------------------  
+
 
 CCPIV v2.4.0.0202版本更新：  
 本次为强制更新，修复部分VIP付费视频不能完整观看以及下载的问题  
@@ -90,5 +107,5 @@ CCPIV 1.0.2版本更新：
 
 ## 下载  
     浏览器,QQ,微信等扫描二维码下载  
-![](http://ac-qmtbhnki.clouddn.com/eb09e340597c23662e10.png)  
-[百度网盘下载](https://pan.baidu.com/s/1c2wGHBa)
+![](http://lc-qmtbhnki.cn-n1.lcfile.com/51780ded17d91a3455a0.png)  
+
