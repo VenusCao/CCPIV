@@ -1,5 +1,5 @@
 # CCPIV
-CCPIV视频全面升级为‘CCPIV视频 PLUS版’，android ios通用流应用
+CCPIV视频全面升级为‘CCPIV视频 PLUS版’，android ios通用流应用  （android原版依然可使用）
 ## 应用截图
 
   
