@@ -26,4 +26,5 @@ CCPIV PLUS v3.0.5发布：
 ## 下载  
     浏览器,QQ,微信等扫描二维码下载(第一次需要下载安装“流应用”app,请放心食用,不懂自行科普)  
 ![](http://lc-qmtbhnki.cn-n1.lcfile.com/51780ded17d91a3455a0.png)  
-
+    备用二维码（ios使用） 
+![](http://lc-qmtbhnki.cn-n1.lcfile.com/452ce4f74a7d1789a9df.png)
